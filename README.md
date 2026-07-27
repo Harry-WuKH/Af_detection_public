@@ -23,8 +23,8 @@ outputs/       checkpoints and reports (ignored by Git)
 ## Setup
 
 ```bash
-git clone <your-public-repository-url>
-cd <repository-name>
+git clone https://github.com/Harry-WuKH/Af_detection_public.git
+cd Af_detection_public
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
